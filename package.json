@@ -5,7 +5,7 @@
   "description": "TODO",
   "repository": "https://github.com/dmitmel/custom-phone-case-editor",
   "bugs": "https://github.com/dmitmel/custom-phone-case-editor/issues",
-  "homepage": "http://dmitmel.github.io/custom-phone-case-editor",
+  "homepage": "https://dmitmel.github.io/custom-phone-case-editor",
   "author": "Dmytro Meleshko <dmytro.meleshko@gmail.com>",
   "license": "MIT",
   "dependencies": {
